@@ -7,6 +7,6 @@ sh <(curl -L https://raw.githubusercontent.com/Excellionas/Aioz-cli-node/main/in
 
 Uninstall  :
 ```
-sudo systemctl disable aioznode
+sudo systemctl stop aioznode && sudo systemctl disable aioznode
 sudo rm -rf /opt/aioznode
 ```
