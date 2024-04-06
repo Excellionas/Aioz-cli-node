@@ -6,5 +6,7 @@ bash -c "$(wget -O- https://raw.githubusercontent.com/Excellionas/Aioz-cli-node/
 ```
 
 Uninstall  :
+```
 sudo systemctl disable aioznode
 sudo rm -rf /opt/aioznode
+```
