@@ -1,5 +1,8 @@
 # Aioz-cli-node
 
+This is a script to automatically install AIOZ edge cli node and configure systemd service
+
+
 Run script directly:
 ```
 sh <(curl -L https://raw.githubusercontent.com/Excellionas/Aioz-cli-node/main/install.sh)"
