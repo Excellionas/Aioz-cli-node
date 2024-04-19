@@ -5,7 +5,7 @@ This is a script to automatically install AIOZ edge cli node and configure syste
 
 Run script directly:
 ```
-sh <(curl -L https://raw.githubusercontent.com/Excellionas/Aioz-cli-node/main/install.sh)"
+sh <(curl -L https://raw.githubusercontent.com/Karjack182/Aioz-cli-node/main/install.sh)"
 ```
 
 Uninstall  :
